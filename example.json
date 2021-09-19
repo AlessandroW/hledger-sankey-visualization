@@ -1,0 +1,1175 @@
+{
+    "cbrDates": [
+        [
+            "2021-01-01",
+            "2021-02-09"
+        ]
+    ],
+    "cbrSubreports": [
+        [
+            "Revenues",
+            {
+                "prTotals": {
+                    "prrName": [],
+                    "prrAverage": [
+                        {
+                            "aprice": null,
+                            "acommodity": "EUR",
+                            "astyle": {
+                                "asprecision": {
+                                    "contents": 2,
+                                    "tag": "Precision"
+                                },
+                                "asdecimalpoint": ".",
+                                "ascommodityspaced": true,
+                                "asdigitgroups": null,
+                                "ascommodityside": "R"
+                            },
+                            "aismultiplier": false,
+                            "aquantity": {
+                                "floatingPoint": 1210,
+                                "decimalPlaces": 10,
+                                "decimalMantissa": 12100000000000
+                            }
+                        }
+                    ],
+                    "prrAmounts": [
+                        [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 1210,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 12100000000000
+                                }
+                            }
+                        ]
+                    ],
+                    "prrTotal": [
+                        {
+                            "aprice": null,
+                            "acommodity": "EUR",
+                            "astyle": {
+                                "asprecision": {
+                                    "contents": 2,
+                                    "tag": "Precision"
+                                },
+                                "asdecimalpoint": ".",
+                                "ascommodityspaced": true,
+                                "asdigitgroups": null,
+                                "ascommodityside": "R"
+                            },
+                            "aismultiplier": false,
+                            "aquantity": {
+                                "floatingPoint": 1210,
+                                "decimalPlaces": 10,
+                                "decimalMantissa": 12100000000000
+                            }
+                        }
+                    ]
+                },
+                "prRows": [
+                    {
+                        "prrName": "revenues",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 1210,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 12100000000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 1210,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 12100000000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 1210,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 12100000000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "revenues:job",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 1200,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 12000000000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 1200,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 12000000000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 1200,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 12000000000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "revenues:ebay",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 10,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 100000000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 10,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 100000000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 10,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 100000000000
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "prDates": [
+                    [
+                        "2021-01-01",
+                        "2021-02-09"
+                    ]
+                ]
+            },
+            true
+        ],
+        [
+            "Expenses",
+            {
+                "prTotals": {
+                    "prrName": [],
+                    "prrAverage": [
+                        {
+                            "aprice": null,
+                            "acommodity": "EUR",
+                            "astyle": {
+                                "asprecision": {
+                                    "contents": 2,
+                                    "tag": "Precision"
+                                },
+                                "asdecimalpoint": ".",
+                                "ascommodityspaced": true,
+                                "asdigitgroups": null,
+                                "ascommodityside": "R"
+                            },
+                            "aismultiplier": false,
+                            "aquantity": {
+                                "floatingPoint": 735.56,
+                                "decimalPlaces": 10,
+                                "decimalMantissa": 7355600000000
+                            }
+                        }
+                    ],
+                    "prrAmounts": [
+                        [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 735.56,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 7355600000000
+                                }
+                            }
+                        ]
+                    ],
+                    "prrTotal": [
+                        {
+                            "aprice": null,
+                            "acommodity": "EUR",
+                            "astyle": {
+                                "asprecision": {
+                                    "contents": 2,
+                                    "tag": "Precision"
+                                },
+                                "asdecimalpoint": ".",
+                                "ascommodityspaced": true,
+                                "asdigitgroups": null,
+                                "ascommodityside": "R"
+                            },
+                            "aismultiplier": false,
+                            "aquantity": {
+                                "floatingPoint": 735.56,
+                                "decimalPlaces": 10,
+                                "decimalMantissa": 7355600000000
+                            }
+                        }
+                    ]
+                },
+                "prRows": [
+                    {
+                        "prrName": "expenses",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 735.56,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 7355600000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 735.56,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 7355600000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 735.56,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 7355600000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:rent",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 600,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 6000000000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 600,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 6000000000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 600,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 6000000000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:home",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 49.98,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 499800000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 49.98,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 499800000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 49.98,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 499800000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:home:power",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 29.99,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 299900000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 29.99,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 299900000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 29.99,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 299900000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:home:internet",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 19.99,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 199900000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 19.99,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 199900000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 19.99,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 199900000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:groceries",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 39.59,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 395900000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 39.59,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 395900000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 39.59,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 395900000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:groceries:pharmacy",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 19.9,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 199000000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 19.9,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 199000000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 19.9,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 199000000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:groceries:food",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 19.69,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 196900000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 19.69,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 196900000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 19.69,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 196900000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:phone",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 30,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 300000000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 30,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 300000000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 30,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 300000000000
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "prrName": "expenses:recreational:netflix",
+                        "prrAverage": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 15.99,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 159900000000
+                                }
+                            }
+                        ],
+                        "prrAmounts": [
+                            [
+                                {
+                                    "aprice": null,
+                                    "acommodity": "EUR",
+                                    "astyle": {
+                                        "asprecision": {
+                                            "contents": 2,
+                                            "tag": "Precision"
+                                        },
+                                        "asdecimalpoint": ".",
+                                        "ascommodityspaced": true,
+                                        "asdigitgroups": null,
+                                        "ascommodityside": "R"
+                                    },
+                                    "aismultiplier": false,
+                                    "aquantity": {
+                                        "floatingPoint": 15.99,
+                                        "decimalPlaces": 10,
+                                        "decimalMantissa": 159900000000
+                                    }
+                                }
+                            ]
+                        ],
+                        "prrTotal": [
+                            {
+                                "aprice": null,
+                                "acommodity": "EUR",
+                                "astyle": {
+                                    "asprecision": {
+                                        "contents": 2,
+                                        "tag": "Precision"
+                                    },
+                                    "asdecimalpoint": ".",
+                                    "ascommodityspaced": true,
+                                    "asdigitgroups": null,
+                                    "ascommodityside": "R"
+                                },
+                                "aismultiplier": false,
+                                "aquantity": {
+                                    "floatingPoint": 15.99,
+                                    "decimalPlaces": 10,
+                                    "decimalMantissa": 159900000000
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "prDates": [
+                    [
+                        "2021-01-01",
+                        "2021-02-09"
+                    ]
+                ]
+            },
+            false
+        ]
+    ],
+    "cbrTotals": {
+        "prrName": [],
+        "prrAverage": [
+            {
+                "aprice": null,
+                "acommodity": "EUR",
+                "astyle": {
+                    "asprecision": {
+                        "contents": 2,
+                        "tag": "Precision"
+                    },
+                    "asdecimalpoint": ".",
+                    "ascommodityspaced": true,
+                    "asdigitgroups": null,
+                    "ascommodityside": "R"
+                },
+                "aismultiplier": false,
+                "aquantity": {
+                    "floatingPoint": 474.44,
+                    "decimalPlaces": 10,
+                    "decimalMantissa": 4744400000000
+                }
+            }
+        ],
+        "prrAmounts": [
+            [
+                {
+                    "aprice": null,
+                    "acommodity": "EUR",
+                    "astyle": {
+                        "asprecision": {
+                            "contents": 2,
+                            "tag": "Precision"
+                        },
+                        "asdecimalpoint": ".",
+                        "ascommodityspaced": true,
+                        "asdigitgroups": null,
+                        "ascommodityside": "R"
+                    },
+                    "aismultiplier": false,
+                    "aquantity": {
+                        "floatingPoint": 474.44,
+                        "decimalPlaces": 10,
+                        "decimalMantissa": 4744400000000
+                    }
+                }
+            ]
+        ],
+        "prrTotal": [
+            {
+                "aprice": null,
+                "acommodity": "EUR",
+                "astyle": {
+                    "asprecision": {
+                        "contents": 2,
+                        "tag": "Precision"
+                    },
+                    "asdecimalpoint": ".",
+                    "ascommodityspaced": true,
+                    "asdigitgroups": null,
+                    "ascommodityside": "R"
+                },
+                "aismultiplier": false,
+                "aquantity": {
+                    "floatingPoint": 474.44,
+                    "decimalPlaces": 10,
+                    "decimalMantissa": 4744400000000
+                }
+            }
+        ]
+    },
+    "cbrTitle": "Income Statement 2021-01-01..2021-02-08, converted to cost"
+}
