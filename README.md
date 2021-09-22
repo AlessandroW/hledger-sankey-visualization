@@ -1,6 +1,6 @@
 # HLedger Sankey
 A HLedger Sankey visualization of your incomestatement using amCharts4.
-![Sankey visualization of the example.journal](screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/29565912/134332058-514f0ba0-ba14-4603-a04c-b3c919fe0072.png)
 
 ## Example
 Export the `example.journal` with:
