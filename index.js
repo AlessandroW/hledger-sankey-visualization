@@ -41,11 +41,10 @@ function parseJournal(event) {
   chart.nodeAlign = 'bottom';
 
   // Amount labels.
-  const labelBullet = chart.links.template.bullets.push(
-      new am4charts.LabelBullet());
-  labelBullet.label.propertyFields.text = 'labelText';
-  labelBullet.label.propertyFields.horizontalCenter = 'left';
-  labelBullet.label.textAlign = 'start';
+  // See: https://www.amcharts.com/docs/v4/reference/label/
+  chart.nodes.template.nameLabel.label.propertyFields.text = "labelText";
+  chart.nodes.template.nameLabel.label.propertyFields.tooltipText = "labelText";
+  chart.nodes.template.nameLabel.label.truncate = false;
 };
 
 /**
@@ -121,7 +120,7 @@ class Row {
     this.amount = json.prrAmounts[0][0].aquantity.floatingPoint;
     this.currency = json.prrAmounts[0][0].acommodity;
     this.isRoot = !this.ancestors.length;
-    this.label = `[bold]${this.amount.toFixed(0)} ${this.currency}[/]`;
+    this.label = `${this.name} [bold]${this.amount.toFixed(0)} ${this.currency}[/]`;
   }
 }
 
@@ -181,7 +180,7 @@ function createChartData(journal) {
         labelText: row.label});
     } else {
       const savings = row.amount - totalExpenses;
-      const label = `[bold] ${savings.toFixed(0)} ${row.currency}`;
+      const label = `savings [bold] ${savings.toFixed(0)} ${row.currency}`;
       data.push({to: 'savings',
         from: 'revenues',
         value: savings,

@@ -18,3 +18,10 @@ $ hledger incomestatement --cost --tree --sort-amount --output-format json > jou
 2. Open the `index.html` in your browser.
 3. Click `Browse` and select your exported JSON file.
 
+## Handy Export Functions
+- From .. To Export
+
+``` sh
+$ hledger incomestatement --cost --tree --sort-amount --output-format json -b 2021/04/01 -e 2021/06/30 > 2021-Q2.json
+```
+-  
